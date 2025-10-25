@@ -10,11 +10,34 @@ Welcome to my corner of GitHub! Glad you stopped by.
 
 ---
 
-### 🚀 Current Focus / Projects
+### 🚀 Featured Projects & Domains
 
-- 📱 Building multi-platform applications using **Flutter** for the frontend.
-- ⚙️ Developing robust backends for mobile apps using **Java** with **Spring Boot** and **PostgreSQL**.
-- 🐍 Exploring **Flutter** integration with **Python** scripts for data processing and automation tasks.
+Here are some of the key projects I'm working on, showcasing my skills across different domains and technologies:
+
+#### 1. Baymax - Virtual Health Assistant ⚕️ (Completed/In Progress)
+
+A comprehensive virtual assistant application focused on health and well-being.
+
+-   **Core Functionality:** User queries on health, wellness, and specific medication advice (utilizing the **ChatGPT API** and **FDA API** for knowledge integration).
+-   **Geo-Location Services:** Includes a dedicated map feature to locate nearby **Pharmacies and Hospitals** (demonstrating **GIS** and location-based data handling).
+-   **Technologies Highlighted:** Java (Spring Boot / Rest API), ChatGPT API, JavaScript/HTML (for web views or services), Data Integration.
+
+#### 2. Lifeguard Management App 🌊 (In Development)
+
+A custom solution for managing lifeguard teams and operations.
+
+-   **Backend:** Developed with **Java (Spring Boot / REST API)** to ensure a robust, multi-platform data server.
+-   **Frontend:** Currently being designed with **Flutter** for cross-platform (iOS/Android) deployment.
+-   **Key Features:** Automated scheduling/shifts, digital fill-in of rescue reports, and powerful **statistical analysis** of past rescue data and yearly trends.
+-   **Technologies Highlighted:** Java Backend, Spring Boot, PostgreSQL (Database), REST API Design, Flutter, Data Statistics.
+
+#### 3. Firefighter Scheduling Automation 🔥 (Python Study Project)
+
+A project focused on optimization and automated resource management within a fire department context.
+
+-   **Goal:** Efficiently manage firefighter shifts and scheduling to create the most diverse and balanced teams possible.
+-   **Implementation:** Utilizes **Python** for complex logic, algorithms, and full automation of the scheduling process.
+-   **Technologies Highlighted:** Python, Complex Algorithm Design, Automation.
 
 ---
 
